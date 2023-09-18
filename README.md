@@ -11,7 +11,7 @@ With the needed to provided quick recommendations to our customers based on our 
 External & Internal customers.
 
 # How does it work?
-![image](https://user-images.githubusercontent.com/14192817/139300912-fdc68578-88dd-4d71-8c99-3f39c246aa8d.png)
+![image](https://github.com/min-git/HPCCopilot/blob/main/ai-icon.png)
 
 # Value for the Customer
 Considering our customers need quick good answers, this Copilot obtains knowledge from the experts and provided recommendations in an interactive way.
