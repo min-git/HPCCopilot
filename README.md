@@ -1,3 +1,5 @@
+![image](https://github.com/min-git/HPCCopilot/blob/main/ezgif.com-gif-maker.gif)
+
 # About Azure HPC Copilot is
 Intuitive and AI-driven recommendation system to leverage the selection process for Azure services and SKUs
 This is the code repository for Microsoft global hackathon 2023. We reused [Azure Chat Solution Accelerator powered by Azure Open AI Service](https://github.com/microsoft/azurechat) for building the front end application of HPC Copilot MVP.
