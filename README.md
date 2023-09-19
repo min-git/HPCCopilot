@@ -10,7 +10,7 @@ This is the code repository for Microsoft global hackathon 2023. We reused [Azur
 With the needed to provided quick recommendations to our customers based on our internal knowledge in the Azure services and SKUs.
 
 # Who is this project for?
-External & Internal customers.
+External & Internal customers who want to use Azure HPC
 
 # How does it work?
 ![image](https://github.com/min-git/HPCCopilot/blob/main/HPCCopilotMVPArchitecture.png)
